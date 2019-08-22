@@ -1,9 +1,10 @@
-## 1.0.1 (2019-08-22)
+## 1.0.2 (2019-08-22)
 
 
 ### Bug Fixes
 
 * fix bug ([26b1eb9](https://github.com/HoustonEB/package-demo/commit/26b1eb9))
+* **change version:** change version ([ccfff14](https://github.com/HoustonEB/package-demo/commit/ccfff14))
 
 
 ### Features
