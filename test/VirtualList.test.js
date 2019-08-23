@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
-import VirtualList from '../src/components/VirtualList';
+// import VirtualList from '../src/components/VirtualList';
+import {VirtualList} from '../lib/index';
 import Enzyme, { shallow } from 'enzyme';
 import { expect } from 'chai';
 

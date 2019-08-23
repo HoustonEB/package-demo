@@ -1,11 +1,13 @@
 {
   "name": "package-demo-yu",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "main": "lib/main.js",
+  "license": "ISC",
   "scripts": {
     "test": "jest",
     "build": "webpack --config webpack.config.js",
+    "babel": "babel src --out-dir lib",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0"
   },
   "jest": {
@@ -30,12 +32,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/HoustonEB/package-demo/issues"
   },
   "homepage": "https://github.com/HoustonEB/package-demo#readme",
   "devDependencies": {
+    "@babel/cli": "^7.5.5",
     "@babel/core": "^7.5.5",
     "@babel/plugin-proposal-class-properties": "^7.5.5",
     "@babel/preset-env": "^7.5.5",

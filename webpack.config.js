@@ -5,7 +5,10 @@ module.exports = {
     entry: './src/index',
     output: {
         path: path.resolve(__dirname, 'lib/'),
-        filename: '[name].js'
+        filename: '[name].js',
+        libraryTarget: 'umd',
+        libraryExport: 'default',
+        library: 'two',
     },
     module: {
         rules: [
