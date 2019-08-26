@@ -1,3 +1,7 @@
+## [1.0.10-0](https://github.com/HoustonEB/package-demo/compare/v1.0.9-0...v1.0.10-0) (2019-08-26)
+
+
+
 ## [1.0.9-0](https://github.com/HoustonEB/package-demo/compare/v1.0.8-0...v1.0.9-0) (2019-08-26)
 
 
