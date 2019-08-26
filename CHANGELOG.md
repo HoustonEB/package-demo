@@ -1,3 +1,12 @@
+## [1.0.9-0](https://github.com/HoustonEB/package-demo/compare/v1.0.8-0...v1.0.9-0) (2019-08-26)
+
+
+### Bug Fixes
+
+* **test version:** test version ([d1c10b4](https://github.com/HoustonEB/package-demo/commit/d1c10b4))
+
+
+
 ## [1.0.8-0](https://github.com/HoustonEB/package-demo/compare/v1.0.6-0...v1.0.8-0) (2019-08-26)
 
 
