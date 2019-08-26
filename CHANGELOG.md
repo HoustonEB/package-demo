@@ -1,4 +1,4 @@
-## 1.0.5 (2019-08-26)
+## [1.0.6-0](https://github.com/HoustonEB/package-demo/compare/184fb8f...v1.0.6-0) (2019-08-26)
 
 
 ### Bug Fixes
