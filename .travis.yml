@@ -2,4 +2,5 @@ language: node_js
 node_js:
  - "10"
 install: true
-script: ./scripts/build.sh
+script:
+ - sh ./scripts/build.sh
